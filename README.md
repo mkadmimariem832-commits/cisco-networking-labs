@@ -274,4 +274,4 @@ Chaque TP est simulé avec **Cisco Packet Tracer** (fichiers `.pkt`). Les labs s
 
 ## Auteure
 
-**Mariem** — Étudiante en réseaux et administration systèmes (RSI3)
+**Mariem** — Étudiante en réseaux et administration systèmes (RSI31)
