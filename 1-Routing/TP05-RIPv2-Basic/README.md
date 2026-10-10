@@ -2,4 +2,4 @@
 
 Routage RIPv2 sur 3 routeurs : passive-interface, désactivation de la récapitulation automatique, route par défaut.
 
-📦 Fichier Packet Tracer : `TP05_RIPv2_Basic.pkt`
+Fichier Packet Tracer : `TP05_RIPv2_Basic.pkt`
