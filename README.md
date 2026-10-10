@@ -1,11 +1,11 @@
-# 🌐 Cisco Networking Labs — Portfolio
+# Cisco Networking Labs — Portfolio
 
 Travaux pratiques réseaux réalisés pendant ma formation en **réseaux et administration systèmes (RSI3)**.
 Chaque TP est simulé avec **Cisco Packet Tracer** (fichiers `.pkt`). Les labs sont basés sur le contenu **Cisco Networking Academy (CCNA)** et sur les sujets de mon établissement (ISET Nabeul).
 
-## 📚 Liste des projets
+## Liste des projets
 
-### 1️⃣ Routage
+### Routage
 
 | # | Projet | Protocole | Fichier Packet Tracer |
 |---|--------|-----------|-----------------------|
@@ -14,7 +14,7 @@ Chaque TP est simulé avec **Cisco Packet Tracer** (fichiers `.pkt`). Les labs s
 | TP10 | OSPFv2 sur un réseau à accès multiple (DR/BDR) | OSPFv2 | [`TP10_OSPFv2_Multiaccess_DR_BDR.pkt`](1-Routing/TP10-OSPFv2-Multiaccess/) |
 | TP11 | Fonctionnalités avancées d'OSPFv2 | OSPFv2 | [`TP11_OSPFv2_Advanced.pkt`](1-Routing/TP11-OSPFv2-Advanced/) |
 
-### 2️⃣ Commutation (Switching)
+### Commutation (Switching)
 
 | # | Projet | Sujet | Fichier Packet Tracer |
 |---|--------|-------|-----------------------|
